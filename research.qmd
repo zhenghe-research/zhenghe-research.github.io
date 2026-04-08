@@ -45,12 +45,12 @@ The analysis converges on three tissue-local repair axes: **ECM remodeling** (DC
 
 ## Endocytic Trafficking in HeLa Cells
 
-Working within the [Starkuvienė Lab](https://www.bioquant.uni-heidelberg.de/groups/starkuviene) at BioQuant, I investigate intracellular endocytic pathways using:
+Working within the [Starkuvienė Lab](https://www.bioquant.uni-heidelberg.de/groups/starkuviene) at BioQuant, I investigate endocytic pathway regulation in HeLa Kyoto cells using:
 
-- Dextran uptake assays (fluid-phase endocytosis quantification)
-- Pharmacological inhibitor profiling
-- 3D spheroid culture models
-- Quantitative fluorescence microscopy and image analysis
+- **Size-selective dextran-FITC uptake assays** (10/40/70 kDa) — fluid-phase endocytosis quantification across molecular weight ranges
+- **Pathway-specific pharmacological inhibition** — Wortmannin (PI3K-dependent macropinocytosis) and Dynasore (dynamin-dependent endocytosis) to dissect pathway contributions
+- **3D spheroid culture models** — Nunclon Sphera ultra-low attachment platform for validating endocytic behaviour in structurally relevant 3D context
+- **Wound healing migration assays** — scratch assay with quantitative imaging analysis
 
 This work contributes to the lab's broader programme on how spatial and temporal regulation of intracellular trafficking is achieved and how its dysregulation contributes to disease and aging.
 
