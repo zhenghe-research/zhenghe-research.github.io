@@ -68,8 +68,10 @@ ABCB5⁺ MSC paracrine biology, chronic wound repair, stem cell differentiation,
 
 ---
 
-## News
+## Selected Publications
 
-- **Apr 2026** — Doctoral thesis submitted for review (Universität Heidelberg)
-- **2025** — Review paper published: *The Differentiation and Regeneration Potential of ABCB5⁺ Mesenchymal Stem Cells* · *J Clin Med*
-- **2021** — Paper published in *Disease Markers* on bioinformatics analysis of venous thromboembolism
+He Z, Starkuviene V, Keese M. *The Differentiation and Regeneration Potential of ABCB5⁺ Mesenchymal Stem Cells: A Review and Clinical Perspectives.* **J Clin Med** 2025, 14(3), 660. · [DOI](https://doi.org/10.3390/jcm14030660)
+
+He Z, Jiang Q, Li F, Chen M. *Crosstalk between venous thromboembolism and periodontal diseases: a bioinformatics analysis.* **Disease Markers** 2021, 1776567. · [DOI](https://doi.org/10.1155/2021/1776567)
+
+→ [Full publication list](publications.qmd)
