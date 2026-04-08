@@ -1,0 +1,40 @@
+---
+title: "Publications"
+---
+
+*For the most current list, see my [Google Scholar profile](https://scholar.google.com/citations?user=oPz_JBcAAAAJ).*
+
+---
+
+## Journal Articles
+
+### 2025
+
+**The Differentiation and Regeneration Potential of ABCB5⁺ Mesenchymal Stem Cells: A Review and Clinical Perspectives**
+**Z He**, V Starkuviene, M Keese
+*Journal of Clinical Medicine*, 14(3), 660
+[[DOI]](https://doi.org/10.3390/jcm14030660) · 3 citations
+
+---
+
+### 2021
+
+**Crosstalk between venous thromboembolism and periodontal diseases: a bioinformatics analysis**
+**Z He**, Q Jiang, F Li, M Chen
+*Disease Markers*, 2021(1), 1776567
+[[DOI]](https://doi.org/10.1155/2021/1776567) · 16 citations
+
+---
+
+### 2020
+
+**Application of sandwich technique in preserving internal iliac artery during endovascular treatment for abdominal aortic aneurysm involving common iliac artery**
+H Zheng, Y Haiyan, F Jian, S Jianming
+*[Journal details]*
+<!-- Verify authorship and add DOI if applicable -->
+
+---
+
+## Manuscripts in Preparation
+
+- **Bioinformatics-driven identification of VSMC phenotypic switch modulators** — *Target: ATVB*, submission planned W25 2026

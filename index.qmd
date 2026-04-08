@@ -1,0 +1,76 @@
+---
+title: ""
+page-layout: full
+---
+
+:::: {.columns .align-items-center style="padding: 3rem 0 2rem 0;"}
+
+::: {.column width="25%" style="text-align: center;"}
+![](assets/profile.jpg){.rounded-circle style="width: 180px; height: 180px; object-fit: cover; border: 3px solid #dee2e6;"}
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="70%"}
+# Zheng He
+
+**PhD Researcher** · BioQuant, Heidelberg University
+Medizinische Fakultät Mannheim · Heidelberg, Germany
+
+*Supervised by PD Dr. med. Martin Sigl*
+
+---
+
+My research focuses on the **phenotypic switch of vascular smooth muscle cells (VSMCs)** — the process by which VSMCs switch between contractile and synthetic states in vascular disease. I combine high-throughput bioinformatics analysis with wet lab validation to identify small molecule modulators of this transition, with potential implications for atherosclerosis and in-stent restenosis.
+
+I am also involved in research on **ABCB5⁺ mesenchymal stem cells** and their regenerative potential.
+
+:::: {.columns style="margin-top: 1rem;"}
+::: {.column width="auto" style="margin-right: 0.5rem;"}
+[{{< fa envelope >}} Academic](mailto:zheng.he@bioquant.uni-heidelberg.de){.btn .btn-primary .btn-sm}
+:::
+::: {.column width="auto" style="margin-right: 0.5rem;"}
+[{{< fa envelope >}} Personal](mailto:hezheng.surgeon@gmail.com){.btn .btn-outline-secondary .btn-sm}
+:::
+::: {.column width="auto" style="margin-right: 0.5rem;"}
+[{{< fa graduation-cap >}} Google Scholar](https://scholar.google.com/citations?user=oPz_JBcAAAAJ){.btn .btn-outline-secondary .btn-sm}
+:::
+::: {.column width="auto" style="margin-right: 0.5rem;"}
+[ORCID](https://orcid.org/0000-0002-0374-0368){.btn .btn-outline-secondary .btn-sm}
+:::
+::: {.column width="auto"}
+[{{< fa brands github >}} GitHub](https://github.com/zhenghe-research){.btn .btn-outline-secondary .btn-sm}
+:::
+::::
+
+:::
+
+::::
+
+---
+
+## Research Interests
+
+:::: {.columns}
+::: {.column width="33%"}
+**Vascular Biology**
+VSMC phenotypic plasticity, contractile-to-synthetic transition, in-stent restenosis, atherosclerosis
+:::
+::: {.column width="33%"}
+**Bioinformatics**
+Bulk RNA-seq, scRNA-seq, Mendelian randomization, gene signature discovery, transcription factor analysis
+:::
+::: {.column width="33%"}
+**Translational Research**
+Small molecule drug candidates (Resveratrol, Galangin), stem cell differentiation, ABCB5⁺ MSC biology
+:::
+::::
+
+---
+
+## News
+
+- **Apr 2026** — PhD thesis submitted for review (Universität Heidelberg)
+- **2025** — Review paper published: *The Differentiation and Regeneration Potential of ABCB5⁺ Mesenchymal Stem Cells* · *J Clin Med*
+- **2021** — Paper published in *Disease Markers* on bioinformatics analysis of venous thromboembolism

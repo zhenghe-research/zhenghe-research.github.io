@@ -1,0 +1,38 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Zheng He"
+  description: "PhD Researcher in Vascular Biology & Bioinformatics, Heidelberg University"
+  favicon: assets/profile.jpg
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/zhenghe-research
+        aria-label: GitHub
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=oPz_JBcAAAAJ
+        aria-label: Google Scholar
+
+  page-footer:
+    left: "© 2026 Zheng He"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false

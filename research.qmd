@@ -1,0 +1,31 @@
+---
+title: "Research"
+---
+
+## VSMC Phenotypic Switch Modulators
+
+Vascular smooth muscle cells (VSMCs) are highly plastic cells that can transition between a quiescent **contractile phenotype** and a proliferative/migratory **synthetic phenotype**. This switch is central to the pathogenesis of atherosclerosis and in-stent restenosis (ISR).
+
+My doctoral work employs a multi-stage bioinformatics pipeline integrated with experimental validation to:
+
+1. **Discover gene signatures** of the VSMC phenotypic switch using bulk RNA-seq datasets (GSE193817, GSE69637, GSE253003)
+2. **Identify candidate modulators** through transcription factor activity analysis and drug-gene interaction networks
+3. **Validate key candidates** (Resveratrol, Galangin) via Western Blot, immunofluorescence, and qPCR in primary human aortic smooth muscle cells (HAoSMC)
+
+**Key tools**: R (limma, edgeR, WGCNA, clusterProfiler), Python, Seurat, GSVA
+
+---
+
+## ABCB5⁺ Mesenchymal Stem Cells
+
+ABCB5⁺ MSCs represent a rare population of skin-derived stem cells with potent immunomodulatory and regenerative properties. In collaboration with the Starkuviene lab, I contributed to a comprehensive review of their differentiation potential and clinical translation perspectives.
+
+---
+
+## Methods
+
+| Category | Techniques |
+|----------|-----------|
+| Wet Lab | Western Blot, Immunofluorescence, RT-qPCR, Wound Healing Assay, Cell Viability (CTB) |
+| Bioinformatics | Bulk RNA-seq analysis, scRNA-seq, Mendelian Randomization, WGCNA, GSVA, Gene Ontology/KEGG enrichment |
+| Cell Models | Primary HAoSMC, HeLa cells, ABCB5⁺ MSCs |

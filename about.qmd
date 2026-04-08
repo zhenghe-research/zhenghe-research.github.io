@@ -1,0 +1,37 @@
+---
+title: "About"
+---
+
+## Zheng He
+
+I am a medical doctor and PhD researcher at the **Medizinische Fakultät Mannheim, Universität Heidelberg**, supervised by **PD Dr. med. Martin Sigl** (1. Medizinische Klinik). My work bridges clinical vascular medicine and computational biology, focusing on the molecular mechanisms underlying VSMC phenotypic plasticity.
+
+Before my PhD, I worked as a cardiovascular surgeon at the **Third Affiliated Hospital of Chongqing Medical University** (2020–2021), where I gained clinical experience in vascular and endovascular procedures.
+
+---
+
+## Education & Training
+
+| Period | Position | Institution |
+|--------|----------|-------------|
+| 2023 – present | PhD Candidate (Dr. med.) | Medizinische Fakultät Mannheim, Universität Heidelberg |
+| 2020 – 2021 | Cardiovascular Surgery Resident | Third Affiliated Hospital, Chongqing Medical University |
+
+---
+
+## Skills
+
+**Bioinformatics**: R, Python, RNA-seq pipeline, scRNA-seq (Seurat), Mendelian Randomization (TwoSampleMR), WGCNA, GSVA, survival analysis
+
+**Wet Lab**: Cell culture (primary VSMCs, HeLa, MSCs), Western Blot, Immunofluorescence, RT-qPCR, Wound Healing Assay, Flow Cytometry
+
+**Languages**: Chinese (native), English (professional), German (intermediate)
+
+---
+
+## Contact
+
+- Academic: [zheng.he@bioquant.uni-heidelberg.de](mailto:zheng.he@bioquant.uni-heidelberg.de)
+- Personal: [hezheng.surgeon@gmail.com](mailto:hezheng.surgeon@gmail.com)
+- ORCID: [0000-0002-0374-0368](https://orcid.org/0000-0002-0374-0368)
+- GitHub: [zhenghe-research](https://github.com/zhenghe-research)
