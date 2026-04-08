@@ -44,20 +44,27 @@ My doctoral research spans three interconnected lines of investigation, combinin
 
 ## Research Interests
 
-:::: {.columns}
-::: {.column width="33%"}
+<div style="display: flex; gap: 2rem; flex-wrap: wrap; margin-top: 1rem;">
+
+<div style="flex: 1; min-width: 200px;">
 **Vascular Biology**
+
 VSMC phenotypic plasticity, contractile-to-synthetic transition, atherosclerosis, in-stent restenosis
-:::
-::: {.column width="33%"}
+</div>
+
+<div style="flex: 1; min-width: 200px;">
 **Computational Biology**
+
 Bulk RNA-seq, scRNA-seq, WGCNA, GSVA, GSEA, Mendelian randomization, cell-cell communication analysis, molecular docking
-:::
-::: {.column width="33%"}
+</div>
+
+<div style="flex: 1; min-width: 200px;">
 **Stem Cell & Wound Biology**
+
 ABCB5⁺ MSC paracrine biology, chronic wound repair, stem cell differentiation, endocytic pathway regulation, intracellular trafficking
-:::
-::::
+</div>
+
+</div>
 
 ---
 
