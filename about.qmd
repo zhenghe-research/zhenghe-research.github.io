@@ -4,9 +4,28 @@ title: "About"
 
 ## Zheng He
 
-I am a medical doctor and doctoral candidate (Dr. med.) at the **Medizinische Fakultät Mannheim, Universität Heidelberg**, supervised by **PD Dr. med. Martin Sigl** (1. Medizinische Klinik). My work bridges clinical vascular medicine and computational biology, focusing on the molecular mechanisms underlying VSMC phenotypic plasticity.
+I am a medical doctor and doctoral candidate (Dr. med.) affiliated with two institutions at Heidelberg University. My primary research is conducted at **BioQuant, Heidelberg University** under the supervision of **Prof. Dr. Vytautė Starkuvienė-Erfle**, while my doctoral degree is registered at the **Medizinische Fakultät Mannheim** under **Prof. Dr. med. Michael Keese**, who oversees my research project, funding, and thesis. The formal Doktorvater is **PD Dr. med. Martin Sigl**.
 
-Before my PhD, I worked as a cardiovascular surgeon at the **Third Affiliated Hospital of Chongqing Medical University** (2020–2021), where I gained clinical experience in vascular and endovascular procedures.
+My work bridges clinical vascular medicine and computational biology, focusing on the molecular mechanisms underlying VSMC phenotypic plasticity.
+
+Before my doctoral studies, I worked as a cardiovascular surgeon at the **Third Affiliated Hospital of Chongqing Medical University** (2020–2021), where I gained clinical experience in vascular and endovascular procedures.
+
+---
+
+## Affiliations
+
+| Institution | Address | Role |
+|-------------|---------|------|
+| BioQuant, Heidelberg University | Im Neuenheimer Feld 267, 69120 Heidelberg | Research Lab |
+| Medizinische Fakultät Mannheim, Heidelberg University | Ludolf-Krehl-Straße 13-17, 68167 Mannheim | Doctoral Registration |
+
+## Supervisors
+
+| Name | Role |
+|------|------|
+| Prof. Dr. med. Michael Keese | Primary supervisor — research direction, funding & thesis |
+| Prof. Dr. Vytautė Starkuvienė-Erfle | BioQuant lab supervisor |
+| PD Dr. med. Martin Sigl | Doktorvater (formal registration) |
 
 ---
 

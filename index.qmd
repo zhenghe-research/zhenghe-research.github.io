@@ -15,10 +15,13 @@ page-layout: full
 ::: {.column width="70%"}
 # Zheng He
 
-**Doctoral Candidate (Dr. med.)** · BioQuant, Heidelberg University
-Medizinische Fakultät Mannheim · Heidelberg, Germany
+**Doctoral Candidate (Dr. med.)**
 
-*Supervised by PD Dr. med. Martin Sigl*
+🏛 BioQuant, Heidelberg University · Im Neuenheimer Feld 267, 69120 Heidelberg
+🏥 Medizinische Fakultät Mannheim, Heidelberg University · Mannheim
+
+*Supervised by Prof. Dr. med. Michael Keese & Prof. Dr. Vytautė Starkuvienė-Erfle*
+*Doktorvater: PD Dr. med. Martin Sigl*
 
 ---
 
