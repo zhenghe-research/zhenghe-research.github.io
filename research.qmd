@@ -4,28 +4,63 @@ title: "Research"
 
 ## VSMC Phenotypic Switch Modulators
 
-Vascular smooth muscle cells (VSMCs) are highly plastic cells that can transition between a quiescent **contractile phenotype** and a proliferative/migratory **synthetic phenotype**. This switch is central to the pathogenesis of atherosclerosis and in-stent restenosis (ISR).
+Vascular smooth muscle cells (VSMCs) are highly plastic cells capable of transitioning between a quiescent **contractile phenotype** and a proliferative **synthetic phenotype** — a switch central to the pathogenesis of atherosclerosis and in-stent restenosis.
 
-My doctoral work employs a multi-stage bioinformatics pipeline integrated with experimental validation to:
+My primary doctoral project defines the transcriptional basis of this switch through a multi-stage computational and experimental framework:
 
-1. **Discover gene signatures** of the VSMC phenotypic switch using bulk RNA-seq datasets (GSE193817, GSE69637, GSE253003)
-2. **Identify candidate modulators** through transcription factor activity analysis and drug-gene interaction networks
-3. **Validate key candidates** (Resveratrol, Galangin) via Western Blot, immunofluorescence, and qPCR in primary human aortic smooth muscle cells (HAoSMC)
+1. **Discovery** — Using a donor-aware limma model on GSE193817 (284 samples, 148 donors, 136 paired), I identified a **1,103-gene switching program** (884 UP, 219 DN; FDR < 0.05) capturing a proliferation-versus-cholesterol-metabolism transcriptional axis.
 
-**Key tools**: R (limma, edgeR, WGCNA, clusterProfiler), Python, Seurat, GSVA
+2. **Transferability validation** — The program demonstrates context-selective transferability across multiple independent perturbation datasets (growth-factor/cytokine contexts: 5/5 concordant; metabolic/stress contexts: 0/4), validated in GSE69637 and GSE253003.
+
+3. **Human plaque anchoring** — The program is anchored to human atherosclerotic plaque states using single-cell data (GSE155512), with strong canonical SMC enrichment confirmed.
+
+4. **Experimental validation** — A PDGF-BB induction model in primary human aortic SMCs (HAoSMC) uses resveratrol as a pharmacological counter-stimulus to test whether the computationally defined program is functionally and pharmacologically responsive (*partial resveratrol rescue* endpoint).
+
+**Target journal**: *Arteriosclerosis, Thrombosis, and Vascular Biology* (ATVB)
+
+**Key tools**: R (limma, WGCNA, clusterProfiler, GSVA), Western Blot, Immunofluorescence, RT-qPCR
 
 ---
 
-## ABCB5⁺ Mesenchymal Stem Cells
+## ABCB5⁺ MSCs & Chronic Wound Healing
 
-ABCB5⁺ MSCs represent a rare population of skin-derived stem cells with potent immunomodulatory and regenerative properties. In collaboration with the Starkuviene lab, I contributed to a comprehensive review of their differentiation potential and clinical translation perspectives.
+ABCB5⁺ MSCs are a rare population of skin-derived stromal cells defined by expression of the ATP-binding cassette transporter ABCB5, with potent immunomodulatory and tissue-regenerative properties.
+
+This line of research has two components:
+
+**Published review** — A comprehensive review of the differentiation and regeneration potential of ABCB5⁺ MSCs and their clinical translation perspectives, published in *Journal of Clinical Medicine* (2025).
+
+**Original bioinformatics study** — A systems-level, multi-modal analysis of the paracrine role of ABCB5⁺ MSCs in chronic wound repair, structured around an expression-derived paracrine candidate atlas integrated with:
+
+- Chronic wound transcriptome profiling (WGCNA co-expression analysis)
+- Convergent target prioritization (M1 atlas ∩ wound DEG modules → 10 hub genes)
+- Single-cell RNA-seq contextualization + cell-cell communication analysis (CellChat)
+- Immune infiltration profiling (ssGSEA)
+- Mendelian randomization boundary testing
+- Molecular docking for structural plausibility
+
+The analysis converges on three tissue-local repair axes: **ECM remodeling** (DCN, FBLN1, FBLN2, MFAP4, SERPINF1), **complement-mediated immunoregulation** (C3, CFH, SERPING1), and **CXCL12-driven chemotactic crosstalk**. The manuscript is under final preparation for submission, with parallel wet-lab co-culture validation underway.
 
 ---
 
-## Methods
+## Endocytic Trafficking in HeLa Cells
+
+Working within the [Starkuvienė Lab](https://www.bioquant.uni-heidelberg.de/groups/starkuviene) at BioQuant, I investigate intracellular endocytic pathways using:
+
+- Dextran uptake assays (fluid-phase endocytosis quantification)
+- Pharmacological inhibitor profiling
+- 3D spheroid culture models
+- Quantitative fluorescence microscopy and image analysis
+
+This work contributes to the lab's broader programme on how spatial and temporal regulation of intracellular trafficking is achieved and how its dysregulation contributes to disease and aging.
+
+---
+
+## Methods Overview
 
 | Category | Techniques |
 |----------|-----------|
-| Wet Lab | Western Blot, Immunofluorescence, RT-qPCR, Wound Healing Assay, Cell Viability (CTB) |
-| Bioinformatics | Bulk RNA-seq analysis, scRNA-seq, Mendelian Randomization, WGCNA, GSVA, Gene Ontology/KEGG enrichment |
-| Cell Models | Primary HAoSMC, HeLa cells, ABCB5⁺ MSCs |
+| **Bioinformatics** | Bulk RNA-seq (limma, edgeR), scRNA-seq (Seurat), WGCNA, GSVA, GSEA, Mendelian Randomization (TwoSampleMR, coloc), CellChat, ssGSEA, molecular docking (HDOCK) |
+| **Wet Lab** | Western Blot, Immunofluorescence, RT-qPCR, Wound Healing Assay, Cell Viability (CTB), Dextran Uptake Assay, 3D Spheroid Culture |
+| **Cell Models** | Primary human aortic SMCs (HAoSMC), HeLa cells, ABCB5⁺ MSCs |
+| **Languages** | R, Python |
