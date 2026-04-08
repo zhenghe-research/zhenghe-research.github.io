@@ -47,15 +47,15 @@ My doctoral research spans three interconnected lines of investigation, combinin
 :::: {.columns}
 ::: {.column width="33%"}
 **Vascular Biology**
-VSMC phenotypic plasticity, contractile-to-synthetic transition, in-stent restenosis, atherosclerosis
+VSMC phenotypic plasticity, contractile-to-synthetic transition, atherosclerosis, in-stent restenosis
 :::
 ::: {.column width="33%"}
-**Bioinformatics**
-Bulk RNA-seq, scRNA-seq, Mendelian randomization, gene signature discovery, transcription factor analysis
+**Computational Biology**
+Bulk RNA-seq, scRNA-seq, WGCNA, GSVA, GSEA, Mendelian randomization, cell-cell communication analysis, molecular docking
 :::
 ::: {.column width="33%"}
-**Translational Research**
-Small molecule drug candidates (Resveratrol, Galangin), stem cell differentiation, ABCB5⁺ MSC biology
+**Stem Cell & Wound Biology**
+ABCB5⁺ MSC paracrine biology, chronic wound repair, stem cell differentiation, endocytic pathway regulation, intracellular trafficking
 :::
 ::::
 
