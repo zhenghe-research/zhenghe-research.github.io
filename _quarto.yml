@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Zheng He"
-  description: "PhD Researcher in Vascular Biology & Bioinformatics, Heidelberg University"
+  description: "Doctoral Candidate (Dr. med.) in Vascular Biology & Bioinformatics, Heidelberg University"
   favicon: assets/profile.jpg
 
   navbar:

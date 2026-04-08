@@ -4,7 +4,7 @@ title: "About"
 
 ## Zheng He
 
-I am a medical doctor and PhD researcher at the **Medizinische Fakultät Mannheim, Universität Heidelberg**, supervised by **PD Dr. med. Martin Sigl** (1. Medizinische Klinik). My work bridges clinical vascular medicine and computational biology, focusing on the molecular mechanisms underlying VSMC phenotypic plasticity.
+I am a medical doctor and doctoral candidate (Dr. med.) at the **Medizinische Fakultät Mannheim, Universität Heidelberg**, supervised by **PD Dr. med. Martin Sigl** (1. Medizinische Klinik). My work bridges clinical vascular medicine and computational biology, focusing on the molecular mechanisms underlying VSMC phenotypic plasticity.
 
 Before my PhD, I worked as a cardiovascular surgeon at the **Third Affiliated Hospital of Chongqing Medical University** (2020–2021), where I gained clinical experience in vascular and endovascular procedures.
 
@@ -14,7 +14,7 @@ Before my PhD, I worked as a cardiovascular surgeon at the **Third Affiliated Ho
 
 | Period | Position | Institution |
 |--------|----------|-------------|
-| 2023 – present | PhD Candidate (Dr. med.) | Medizinische Fakultät Mannheim, Universität Heidelberg |
+| 2023 – present | Doctoral Candidate (Dr. med.) | Medizinische Fakultät Mannheim, Universität Heidelberg |
 | 2020 – 2021 | Cardiovascular Surgery Resident | Third Affiliated Hospital, Chongqing Medical University |
 
 ---

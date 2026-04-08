@@ -15,7 +15,7 @@ page-layout: full
 ::: {.column width="70%"}
 # Zheng He
 
-**PhD Researcher** · BioQuant, Heidelberg University
+**Doctoral Candidate (Dr. med.)** · BioQuant, Heidelberg University
 Medizinische Fakultät Mannheim · Heidelberg, Germany
 
 *Supervised by PD Dr. med. Martin Sigl*
