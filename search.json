@@ -21,6 +21,27 @@
     "text": "Manuscripts in Preparation\n\nBioinformatics-driven identification of VSMC phenotypic switch modulators — Target: ATVB, submission planned W25 2026"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zheng He",
+    "section": "",
+    "text": "Doctoral Candidate (Dr. med.) · BioQuant, Heidelberg University Medizinische Fakultät Mannheim · Heidelberg, Germany\nSupervised by PD Dr. med. Martin Sigl\n\nMy research focuses on the phenotypic switch of vascular smooth muscle cells (VSMCs) — the process by which VSMCs switch between contractile and synthetic states in vascular disease. I combine high-throughput bioinformatics analysis with wet lab validation to identify small molecule modulators of this transition, with potential implications for atherosclerosis and in-stent restenosis.\nI am also involved in research on ABCB5⁺ mesenchymal stem cells and their regenerative potential.\n\n\n✉ zheng.he@bioquant.uni-heidelberg.de\n\n✉ hezheng.surgeon@gmail.com\n\n🎓 Google Scholar\n\nORCID\n\nGitHub"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Zheng He",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n\nVascular Biology VSMC phenotypic plasticity, contractile-to-synthetic transition, in-stent restenosis, atherosclerosis\n\nBioinformatics Bulk RNA-seq, scRNA-seq, Mendelian randomization, gene signature discovery, transcription factor analysis\n\nTranslational Research Small molecule drug candidates (Resveratrol, Galangin), stem cell differentiation, ABCB5⁺ MSC biology"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Zheng He",
+    "section": "News",
+    "text": "News\n\nApr 2026 — PhD thesis submitted for review (Universität Heidelberg)\n2025 — Review paper published: The Differentiation and Regeneration Potential of ABCB5⁺ Mesenchymal Stem Cells · J Clin Med\n2021 — Paper published in Disease Markers on bioinformatics analysis of venous thromboembolism"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
@@ -82,26 +103,5 @@
     "title": "Research",
     "section": "Methods",
     "text": "Methods\n\n\n\n\n\n\n\nCategory\nTechniques\n\n\n\n\nWet Lab\nWestern Blot, Immunofluorescence, RT-qPCR, Wound Healing Assay, Cell Viability (CTB)\n\n\nBioinformatics\nBulk RNA-seq analysis, scRNA-seq, Mendelian Randomization, WGCNA, GSVA, Gene Ontology/KEGG enrichment\n\n\nCell Models\nPrimary HAoSMC, HeLa cells, ABCB5⁺ MSCs"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Zheng He",
-    "section": "",
-    "text": "Doctoral Candidate (Dr. med.) · BioQuant, Heidelberg University Medizinische Fakultät Mannheim · Heidelberg, Germany\nSupervised by PD Dr. med. Martin Sigl\n\nMy research focuses on the phenotypic switch of vascular smooth muscle cells (VSMCs) — the process by which VSMCs switch between contractile and synthetic states in vascular disease. I combine high-throughput bioinformatics analysis with wet lab validation to identify small molecule modulators of this transition, with potential implications for atherosclerosis and in-stent restenosis.\nI am also involved in research on ABCB5⁺ mesenchymal stem cells and their regenerative potential.\n\n\n✉ Academic\n\n✉ Personal\n\n🎓 Google Scholar\n\nORCID\n\nGitHub"
-  },
-  {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Zheng He",
-    "section": "Research Interests",
-    "text": "Research Interests\n\n\nVascular Biology VSMC phenotypic plasticity, contractile-to-synthetic transition, in-stent restenosis, atherosclerosis\n\nBioinformatics Bulk RNA-seq, scRNA-seq, Mendelian randomization, gene signature discovery, transcription factor analysis\n\nTranslational Research Small molecule drug candidates (Resveratrol, Galangin), stem cell differentiation, ABCB5⁺ MSC biology"
-  },
-  {
-    "objectID": "index.html#news",
-    "href": "index.html#news",
-    "title": "Zheng He",
-    "section": "News",
-    "text": "News\n\nApr 2026 — PhD thesis submitted for review (Universität Heidelberg)\n2025 — Review paper published: The Differentiation and Regeneration Potential of ABCB5⁺ Mesenchymal Stem Cells · J Clin Med\n2021 — Paper published in Disease Markers on bioinformatics analysis of venous thromboembolism"
   }
 ]
