@@ -28,19 +28,19 @@ I am also involved in research on **ABCB5⁺ mesenchymal stem cells** and their 
 
 :::: {.columns style="margin-top: 1rem;"}
 ::: {.column width="auto" style="margin-right: 0.5rem;"}
-[{{< fa envelope >}} Academic](mailto:zheng.he@bioquant.uni-heidelberg.de){.btn .btn-primary .btn-sm}
+[✉ Academic](mailto:zheng.he@bioquant.uni-heidelberg.de){.btn .btn-primary .btn-sm}
 :::
 ::: {.column width="auto" style="margin-right: 0.5rem;"}
-[{{< fa envelope >}} Personal](mailto:hezheng.surgeon@gmail.com){.btn .btn-outline-secondary .btn-sm}
+[✉ Personal](mailto:hezheng.surgeon@gmail.com){.btn .btn-outline-secondary .btn-sm}
 :::
 ::: {.column width="auto" style="margin-right: 0.5rem;"}
-[{{< fa graduation-cap >}} Google Scholar](https://scholar.google.com/citations?user=oPz_JBcAAAAJ){.btn .btn-outline-secondary .btn-sm}
+[🎓 Google Scholar](https://scholar.google.com/citations?user=oPz_JBcAAAAJ){.btn .btn-outline-secondary .btn-sm}
 :::
 ::: {.column width="auto" style="margin-right: 0.5rem;"}
 [ORCID](https://orcid.org/0000-0002-0374-0368){.btn .btn-outline-secondary .btn-sm}
 :::
 ::: {.column width="auto"}
-[{{< fa brands github >}} GitHub](https://github.com/zhenghe-research){.btn .btn-outline-secondary .btn-sm}
+[GitHub](https://github.com/zhenghe-research){.btn .btn-outline-secondary .btn-sm}
 :::
 ::::
 
