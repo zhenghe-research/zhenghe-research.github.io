@@ -123,6 +123,6 @@
     "href": "research.html#methods-overview",
     "title": "Research",
     "section": "Methods Overview",
-    "text": "Methods Overview\n\n\n\n\n\n\n\nCategory\nTechniques\n\n\n\n\nBioinformatics\nBulk RNA-seq (limma, edgeR), scRNA-seq (Seurat), WGCNA, GSVA, GSEA, Mendelian Randomization (TwoSampleMR, coloc), CellChat, ssGSEA, molecular docking (HDOCK)\n\n\nWet Lab\nWestern Blot, Immunofluorescence, RT-qPCR, Wound Healing Assay, Cell Viability (CTB), Dextran Uptake Assay, 3D Spheroid Culture\n\n\nCell Models\nPrimary human aortic SMCs (HAoSMC), HeLa cells, ABCB5⁺ MSCs\n\n\nLanguages\nR, Python"
+    "text": "Methods Overview\n\n\n\n\n\n\n\nCategory\nTechniques\n\n\n\n\nBioinformatics\nBulk RNA-seq (limma, edgeR), scRNA-seq (Seurat), WGCNA, GSVA, GSEA, Mendelian Randomization (TwoSampleMR, coloc), CellChat, ssGSEA, molecular docking (HDOCK)\n\n\nWet Lab\nWestern Blot, Immunofluorescence, RT-qPCR, Wound Healing Assay, Cell Viability (CTB), Dextran Uptake Assay, 3D Spheroid Culture\n\n\nImaging\nWidefield fluorescence microscopy, Confocal microscopy (Z-stack), Quantitative image analysis (ImageJ)\n\n\nCell Models\nPrimary human aortic SMCs (HAoSMC), HeLa cells, ABCB5⁺ MSCs\n\n\nLanguages\nR, Python"
   }
 ]
