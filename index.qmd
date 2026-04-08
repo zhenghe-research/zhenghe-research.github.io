@@ -28,10 +28,10 @@ I am also involved in research on **ABCB5⁺ mesenchymal stem cells** and their 
 
 :::: {.columns style="margin-top: 1rem;"}
 ::: {.column width="auto" style="margin-right: 0.5rem;"}
-[✉ Academic](mailto:zheng.he@bioquant.uni-heidelberg.de){.btn .btn-primary .btn-sm}
+[✉ zheng.he@bioquant.uni-heidelberg.de](mailto:zheng.he@bioquant.uni-heidelberg.de){.btn .btn-primary .btn-sm}
 :::
 ::: {.column width="auto" style="margin-right: 0.5rem;"}
-[✉ Personal](mailto:hezheng.surgeon@gmail.com){.btn .btn-outline-secondary .btn-sm}
+[✉ hezheng.surgeon@gmail.com](mailto:hezheng.surgeon@gmail.com){.btn .btn-outline-secondary .btn-sm}
 :::
 ::: {.column width="auto" style="margin-right: 0.5rem;"}
 [🎓 Google Scholar](https://scholar.google.com/citations?user=oPz_JBcAAAAJ){.btn .btn-outline-secondary .btn-sm}
