@@ -3,53 +3,38 @@ title: ""
 page-layout: full
 ---
 
-:::: {.columns .align-items-center style="padding: 3rem 0 2rem 0;"}
+<div style="display: flex; align-items: center; gap: 2.5rem; padding: 3rem 0 2rem 0; flex-wrap: wrap;">
 
-::: {.column width="25%" style="text-align: center;"}
-![](assets/profile.jpg){.rounded-circle style="width: 180px; height: 180px; object-fit: cover; border: 3px solid #dee2e6;"}
-:::
+<img src="assets/profile.jpg" style="width: 180px; height: 180px; object-fit: cover; border-radius: 50%; border: 3px solid #dee2e6; flex-shrink: 0;">
 
-::: {.column width="5%"}
-:::
+<div style="flex: 1; min-width: 260px;">
 
-::: {.column width="70%"}
 # Zheng He
 
 **Doctoral Candidate (Dr. med.)**
 
-🏛 BioQuant, Heidelberg University · Im Neuenheimer Feld 267, 69120 Heidelberg
+🏛 BioQuant, Heidelberg University · Heidelberg<br>
 🏥 Medizinische Fakultät Mannheim, Heidelberg University · Mannheim
 
-*Supervised by Prof. Dr. med. Michael Keese & Prof. Dr. Vytautė Starkuvienė-Erfle*
+*Supervised by Prof. Dr. med. Michael Keese & Prof. Dr. Vytautė Starkuvienė-Erfle*<br>
 *Doktorvater: PD Dr. med. Martin Sigl*
+
+<div style="margin-top: 1rem; display: flex; flex-wrap: wrap; gap: 0.4rem;">
+<a href="mailto:zheng.he@bioquant.uni-heidelberg.de" class="btn btn-primary btn-sm">✉ zheng.he@bioquant.uni-heidelberg.de</a>
+<a href="mailto:hezheng.surgeon@gmail.com" class="btn btn-outline-secondary btn-sm">✉ hezheng.surgeon@gmail.com</a>
+<a href="https://scholar.google.com/citations?user=oPz_JBcAAAAJ" class="btn btn-outline-secondary btn-sm" target="_blank">🎓 Google Scholar</a>
+<a href="https://orcid.org/0000-0002-0374-0368" class="btn btn-outline-secondary btn-sm" target="_blank">ORCID</a>
+<a href="https://github.com/zhenghe-research" class="btn btn-outline-secondary btn-sm" target="_blank">GitHub</a>
+</div>
+
+</div>
+</div>
 
 ---
 
 My research focuses on the **phenotypic switch of vascular smooth muscle cells (VSMCs)** — the process by which VSMCs switch between contractile and synthetic states in vascular disease. I combine high-throughput bioinformatics analysis with wet lab validation to identify small molecule modulators of this transition, with potential implications for atherosclerosis and in-stent restenosis.
 
 I am also involved in research on **ABCB5⁺ mesenchymal stem cells** and their regenerative potential.
-
-:::: {.columns style="margin-top: 1rem;"}
-::: {.column width="auto" style="margin-right: 0.5rem;"}
-[✉ zheng.he@bioquant.uni-heidelberg.de](mailto:zheng.he@bioquant.uni-heidelberg.de){.btn .btn-primary .btn-sm}
-:::
-::: {.column width="auto" style="margin-right: 0.5rem;"}
-[✉ hezheng.surgeon@gmail.com](mailto:hezheng.surgeon@gmail.com){.btn .btn-outline-secondary .btn-sm}
-:::
-::: {.column width="auto" style="margin-right: 0.5rem;"}
-[🎓 Google Scholar](https://scholar.google.com/citations?user=oPz_JBcAAAAJ){.btn .btn-outline-secondary .btn-sm}
-:::
-::: {.column width="auto" style="margin-right: 0.5rem;"}
-[ORCID](https://orcid.org/0000-0002-0374-0368){.btn .btn-outline-secondary .btn-sm}
-:::
-::: {.column width="auto"}
-[GitHub](https://github.com/zhenghe-research){.btn .btn-outline-secondary .btn-sm}
-:::
-::::
-
-:::
-
-::::
 
 ---
 
@@ -74,6 +59,6 @@ Small molecule drug candidates (Resveratrol, Galangin), stem cell differentiatio
 
 ## News
 
-- **Apr 2026** — PhD thesis submitted for review (Universität Heidelberg)
+- **Apr 2026** — Doctoral thesis submitted for review (Universität Heidelberg)
 - **2025** — Review paper published: *The Differentiation and Regeneration Potential of ABCB5⁺ Mesenchymal Stem Cells* · *J Clin Med*
 - **2021** — Paper published in *Disease Markers* on bioinformatics analysis of venous thromboembolism
