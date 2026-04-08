@@ -1,0 +1,107 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "For the most current list, see my Google Scholar profile."
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\n2025\nThe Differentiation and Regeneration Potential of ABCB5⁺ Mesenchymal Stem Cells: A Review and Clinical Perspectives Z He, V Starkuviene, M Keese Journal of Clinical Medicine, 14(3), 660 [DOI] · 3 citations\n\n\n\n2021\nCrosstalk between venous thromboembolism and periodontal diseases: a bioinformatics analysis Z He, Q Jiang, F Li, M Chen Disease Markers, 2021(1), 1776567 [DOI] · 16 citations\n\n\n\n2020\nApplication of sandwich technique in preserving internal iliac artery during endovascular treatment for abdominal aortic aneurysm involving common iliac artery H Zheng, Y Haiyan, F Jian, S Jianming [Journal details]"
+  },
+  {
+    "objectID": "publications.html#manuscripts-in-preparation",
+    "href": "publications.html#manuscripts-in-preparation",
+    "title": "Publications",
+    "section": "Manuscripts in Preparation",
+    "text": "Manuscripts in Preparation\n\nBioinformatics-driven identification of VSMC phenotypic switch modulators — Target: ATVB, submission planned W25 2026"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Zheng He",
+    "section": "",
+    "text": "PhD Researcher · BioQuant, Heidelberg University Medizinische Fakultät Mannheim · Heidelberg, Germany\nSupervised by PD Dr. med. Martin Sigl\n\nMy research focuses on the phenotypic switch of vascular smooth muscle cells (VSMCs) — the process by which VSMCs switch between contractile and synthetic states in vascular disease. I combine high-throughput bioinformatics analysis with wet lab validation to identify small molecule modulators of this transition, with potential implications for atherosclerosis and in-stent restenosis.\nI am also involved in research on ABCB5⁺ mesenchymal stem cells and their regenerative potential.\n\n\n{{&lt; fa envelope &gt;}} Academic\n\n{{&lt; fa envelope &gt;}} Personal\n\n{{&lt; fa graduation-cap &gt;}} Google Scholar\n\nORCID\n\n{{&lt; fa brands github &gt;}} GitHub"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Zheng He",
+    "section": "Research Interests",
+    "text": "Research Interests\n\n\nVascular Biology VSMC phenotypic plasticity, contractile-to-synthetic transition, in-stent restenosis, atherosclerosis\n\nBioinformatics Bulk RNA-seq, scRNA-seq, Mendelian randomization, gene signature discovery, transcription factor analysis\n\nTranslational Research Small molecule drug candidates (Resveratrol, Galangin), stem cell differentiation, ABCB5⁺ MSC biology"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Zheng He",
+    "section": "News",
+    "text": "News\n\nApr 2026 — PhD thesis submitted for review (Universität Heidelberg)\n2025 — Review paper published: The Differentiation and Regeneration Potential of ABCB5⁺ Mesenchymal Stem Cells · J Clin Med\n2021 — Paper published in Disease Markers on bioinformatics analysis of venous thromboembolism"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a medical doctor and PhD researcher at the Medizinische Fakultät Mannheim, Universität Heidelberg, supervised by PD Dr. med. Martin Sigl (1. Medizinische Klinik). My work bridges clinical vascular medicine and computational biology, focusing on the molecular mechanisms underlying VSMC phenotypic plasticity.\nBefore my PhD, I worked as a cardiovascular surgeon at the Third Affiliated Hospital of Chongqing Medical University (2020–2021), where I gained clinical experience in vascular and endovascular procedures."
+  },
+  {
+    "objectID": "about.html#zheng-he",
+    "href": "about.html#zheng-he",
+    "title": "About",
+    "section": "",
+    "text": "I am a medical doctor and PhD researcher at the Medizinische Fakultät Mannheim, Universität Heidelberg, supervised by PD Dr. med. Martin Sigl (1. Medizinische Klinik). My work bridges clinical vascular medicine and computational biology, focusing on the molecular mechanisms underlying VSMC phenotypic plasticity.\nBefore my PhD, I worked as a cardiovascular surgeon at the Third Affiliated Hospital of Chongqing Medical University (2020–2021), where I gained clinical experience in vascular and endovascular procedures."
+  },
+  {
+    "objectID": "about.html#education-training",
+    "href": "about.html#education-training",
+    "title": "About",
+    "section": "Education & Training",
+    "text": "Education & Training\n\n\n\n\n\n\n\n\nPeriod\nPosition\nInstitution\n\n\n\n\n2023 – present\nPhD Candidate (Dr. med.)\nMedizinische Fakultät Mannheim, Universität Heidelberg\n\n\n2020 – 2021\nCardiovascular Surgery Resident\nThird Affiliated Hospital, Chongqing Medical University"
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About",
+    "section": "Skills",
+    "text": "Skills\nBioinformatics: R, Python, RNA-seq pipeline, scRNA-seq (Seurat), Mendelian Randomization (TwoSampleMR), WGCNA, GSVA, survival analysis\nWet Lab: Cell culture (primary VSMCs, HeLa, MSCs), Western Blot, Immunofluorescence, RT-qPCR, Wound Healing Assay, Flow Cytometry\nLanguages: Chinese (native), English (professional), German (intermediate)"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About",
+    "section": "Contact",
+    "text": "Contact\n\nAcademic: zheng.he@bioquant.uni-heidelberg.de\nPersonal: hezheng.surgeon@gmail.com\nORCID: 0000-0002-0374-0368\nGitHub: zhenghe-research"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Vascular smooth muscle cells (VSMCs) are highly plastic cells that can transition between a quiescent contractile phenotype and a proliferative/migratory synthetic phenotype. This switch is central to the pathogenesis of atherosclerosis and in-stent restenosis (ISR).\nMy doctoral work employs a multi-stage bioinformatics pipeline integrated with experimental validation to:\n\nDiscover gene signatures of the VSMC phenotypic switch using bulk RNA-seq datasets (GSE193817, GSE69637, GSE253003)\nIdentify candidate modulators through transcription factor activity analysis and drug-gene interaction networks\nValidate key candidates (Resveratrol, Galangin) via Western Blot, immunofluorescence, and qPCR in primary human aortic smooth muscle cells (HAoSMC)\n\nKey tools: R (limma, edgeR, WGCNA, clusterProfiler), Python, Seurat, GSVA"
+  },
+  {
+    "objectID": "research.html#vsmc-phenotypic-switch-modulators",
+    "href": "research.html#vsmc-phenotypic-switch-modulators",
+    "title": "Research",
+    "section": "",
+    "text": "Vascular smooth muscle cells (VSMCs) are highly plastic cells that can transition between a quiescent contractile phenotype and a proliferative/migratory synthetic phenotype. This switch is central to the pathogenesis of atherosclerosis and in-stent restenosis (ISR).\nMy doctoral work employs a multi-stage bioinformatics pipeline integrated with experimental validation to:\n\nDiscover gene signatures of the VSMC phenotypic switch using bulk RNA-seq datasets (GSE193817, GSE69637, GSE253003)\nIdentify candidate modulators through transcription factor activity analysis and drug-gene interaction networks\nValidate key candidates (Resveratrol, Galangin) via Western Blot, immunofluorescence, and qPCR in primary human aortic smooth muscle cells (HAoSMC)\n\nKey tools: R (limma, edgeR, WGCNA, clusterProfiler), Python, Seurat, GSVA"
+  },
+  {
+    "objectID": "research.html#abcb5-mesenchymal-stem-cells",
+    "href": "research.html#abcb5-mesenchymal-stem-cells",
+    "title": "Research",
+    "section": "ABCB5⁺ Mesenchymal Stem Cells",
+    "text": "ABCB5⁺ Mesenchymal Stem Cells\nABCB5⁺ MSCs represent a rare population of skin-derived stem cells with potent immunomodulatory and regenerative properties. In collaboration with the Starkuviene lab, I contributed to a comprehensive review of their differentiation potential and clinical translation perspectives."
+  },
+  {
+    "objectID": "research.html#methods",
+    "href": "research.html#methods",
+    "title": "Research",
+    "section": "Methods",
+    "text": "Methods\n\n\n\n\n\n\n\nCategory\nTechniques\n\n\n\n\nWet Lab\nWestern Blot, Immunofluorescence, RT-qPCR, Wound Healing Assay, Cell Viability (CTB)\n\n\nBioinformatics\nBulk RNA-seq analysis, scRNA-seq, Mendelian Randomization, WGCNA, GSVA, Gene Ontology/KEGG enrichment\n\n\nCell Models\nPrimary HAoSMC, HeLa cells, ABCB5⁺ MSCs"
+  }
+]

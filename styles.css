@@ -1,0 +1,42 @@
+/* Academic website custom styles */
+
+/* Profile image */
+.rounded-circle {
+  border-radius: 50% !important;
+}
+
+/* Navbar */
+.navbar-brand {
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+/* Hero section spacing */
+body {
+  font-size: 1rem;
+  line-height: 1.7;
+}
+
+/* Section headings */
+h2 {
+  margin-top: 2rem;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid #dee2e6;
+}
+
+/* Button group on homepage */
+.btn {
+  margin-bottom: 0.3rem;
+}
+
+/* Publication entries */
+.publications-list {
+  line-height: 1.8;
+}
+
+/* Responsive profile image */
+@media (max-width: 768px) {
+  .columns {
+    flex-direction: column !important;
+  }
+}
