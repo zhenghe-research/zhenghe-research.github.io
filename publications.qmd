@@ -37,4 +37,5 @@ H Zheng, Y Haiyan, F Jian, S Jianming
 
 ## Manuscripts in Preparation
 
-- **Bioinformatics-driven identification of VSMC phenotypic switch modulators** — *Target: ATVB*, submission planned W25 2026
+- A manuscript on **VSMC phenotypic plasticity** is in preparation.
+- A manuscript on **ABCB5⁺ MSC paracrine biology in chronic wound repair** is in preparation.

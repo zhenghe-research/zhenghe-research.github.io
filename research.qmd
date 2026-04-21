@@ -2,44 +2,38 @@
 title: "Research"
 ---
 
-## VSMC Phenotypic Switch Modulators
+## VSMC Phenotypic Plasticity
 
 Vascular smooth muscle cells (VSMCs) are highly plastic cells capable of transitioning between a quiescent **contractile phenotype** and a proliferative **synthetic phenotype** — a switch central to the pathogenesis of atherosclerosis and in-stent restenosis.
 
-My primary doctoral project defines the transcriptional basis of this switch through a multi-stage computational and experimental framework:
+My primary doctoral project investigates the transcriptional basis of this switch through an integrated computational–experimental framework:
 
-1. **Discovery** — Using a donor-aware limma model on GSE193817 (284 samples, 148 donors, 136 paired), I identified a **1,103-gene switching program** (884 UP, 219 DN; FDR < 0.05) capturing a proliferation-versus-cholesterol-metabolism transcriptional axis.
+- **Discovery** — Donor-aware modelling of public human aortic SMC transcriptomic data to delineate a phenotypic switching program.
+- **Transferability** — Evaluation of the program across independent perturbation contexts (growth-factor, cytokine, and metabolic/stress stimuli).
+- **Human plaque anchoring** — Cross-referencing with published human atherosclerotic plaque single-cell datasets.
+- **Experimental validation** — Perturbation models in primary human aortic SMCs (HAoSMC), paired with pharmacological counter-stimuli to test the functional identity of the program.
 
-2. **Transferability validation** — The program demonstrates context-selective transferability across multiple independent perturbation datasets (growth-factor/cytokine contexts: 5/5 concordant; metabolic/stress contexts: 0/4), validated in GSE69637 and GSE253003.
-
-3. **Human plaque anchoring** — The program is anchored to human atherosclerotic plaque states using single-cell data (GSE155512), with strong canonical SMC enrichment confirmed.
-
-4. **Experimental validation** — A PDGF-BB induction model in primary human aortic SMCs (HAoSMC) uses resveratrol as a pharmacological counter-stimulus to test whether the computationally defined program is functionally and pharmacologically responsive (*partial resveratrol rescue* endpoint).
-
-**Target journal**: *Arteriosclerosis, Thrombosis, and Vascular Biology* (ATVB)
-
-**Key tools**: R (limma, WGCNA, clusterProfiler, GSVA), Western Blot, Immunofluorescence, RT-qPCR
+**Key tools**: R (limma, WGCNA, clusterProfiler, GSVA), Western Blot, Immunofluorescence, RT-qPCR.
 
 ---
 
 ## ABCB5⁺ MSCs & Chronic Wound Healing
 
-ABCB5⁺ MSCs are a rare population of skin-derived stromal cells defined by expression of the ATP-binding cassette transporter ABCB5, with potent immunomodulatory and tissue-regenerative properties.
+ABCB5⁺ MSCs are a rare population of skin-derived stromal cells defined by expression of the ATP-binding cassette transporter ABCB5, with immunomodulatory and tissue-regenerative properties.
 
 This line of research has two components:
 
 **Published review** — A comprehensive review of the differentiation and regeneration potential of ABCB5⁺ MSCs and their clinical translation perspectives, published in *Journal of Clinical Medicine* (2025).
 
-**Original bioinformatics study** — A systems-level, multi-modal analysis of the paracrine role of ABCB5⁺ MSCs in chronic wound repair, structured around an expression-derived paracrine candidate atlas integrated with:
+**Original bioinformatics study** — A systems-level multi-modal analysis of the paracrine role of ABCB5⁺ MSCs in chronic wound repair, integrating:
 
-- Chronic wound transcriptome profiling (WGCNA co-expression analysis)
-- Convergent target prioritization (M1 atlas ∩ wound DEG modules → 10 hub genes)
-- Single-cell RNA-seq contextualization + cell-cell communication analysis (CellChat)
-- Immune infiltration profiling (ssGSEA)
-- Mendelian randomization boundary testing
-- Molecular docking for structural plausibility
+- Expression-based paracrine candidate identification
+- Chronic wound transcriptome profiling (co-expression network analysis)
+- Single-cell RNA-seq contextualization and cell–cell communication analysis
+- Immune micro-environment profiling
+- Causal-inference and structural plausibility analyses
 
-The analysis converges on three tissue-local repair axes: **ECM remodeling** (DCN, FBLN1, FBLN2, MFAP4, SERPINF1), **complement-mediated immunoregulation** (C3, CFH, SERPING1), and **CXCL12-driven chemotactic crosstalk**. The manuscript is under final preparation for submission, with parallel wet-lab co-culture validation underway.
+Computational findings are complemented by experimental co-culture studies examining the paracrine effects of ABCB5⁺ MSCs on wound-relevant cell populations. Manuscript in preparation.
 
 ---
 
@@ -47,12 +41,12 @@ The analysis converges on three tissue-local repair axes: **ECM remodeling** (DC
 
 Working within the [Starkuvienė Lab](https://www.bioquant.uni-heidelberg.de/groups/starkuviene) at BioQuant, I investigate endocytic pathway regulation in HeLa Kyoto cells using:
 
-- **Size-selective dextran-FITC uptake assays** (10/40/70 kDa) — fluid-phase endocytosis quantification across molecular weight ranges
-- **Pathway-specific pharmacological inhibition** — Wortmannin (PI3K-dependent macropinocytosis) and Dynasore (dynamin-dependent endocytosis) to dissect pathway contributions
-- **3D spheroid culture models** — Nunclon Sphera ultra-low attachment platform for validating endocytic behaviour in structurally relevant 3D context
+- **Size-selective dextran-FITC uptake assays** — fluid-phase endocytosis quantification across molecular-weight ranges
+- **Pathway-specific pharmacological inhibition** — dissecting macropinocytic and dynamin-dependent endocytic contributions
+- **3D spheroid culture models** — ultra-low-attachment platforms for 3D-context validation
 - **Wound healing migration assays** — scratch assay with quantitative imaging analysis
 
-This work contributes to the lab's broader programme on how spatial and temporal regulation of intracellular trafficking is achieved and how its dysregulation contributes to disease and aging.
+This work contributes to the lab's broader programme on the spatial and temporal regulation of intracellular trafficking and its dysregulation in disease and aging.
 
 ---
 
