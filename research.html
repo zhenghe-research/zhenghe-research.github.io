@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.9.36">
+<meta name="generator" content="quarto-1.9.37">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -40,14 +40,14 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
 <script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-f418161beb48e0141c760e455f12af2c.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-845c23b38eaddc0f92fda52bfe77a8c8.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-dark-d0ae9245876894da5ac7e18953ecc5cc.css" rel="stylesheet" class="quarto-color-scheme quarto-color-alternate" id="quarto-text-highlighting-styles">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting-7f8f88aac4f3542376d5c11b86a4c14d.css" rel="stylesheet" class="quarto-color-scheme-extra" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-baf333abd407eb98d8b56c64a19f8930.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
-<link href="site_libs/bootstrap/bootstrap-dark-c9d21391a4140639dac49c26faef9edc.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
-<link href="site_libs/bootstrap/bootstrap-baf333abd407eb98d8b56c64a19f8930.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-f7919f14b89ae9a431cba0b331f0b52b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme" id="quarto-bootstrap" data-mode="light">
+<link href="site_libs/bootstrap/bootstrap-dark-e6ec55d50a8571276e9da61ff62941ed.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
+<link href="site_libs/bootstrap/bootstrap-f7919f14b89ae9a431cba0b331f0b52b.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -323,47 +323,45 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="vsmc-phenotypic-switch-modulators" class="level2">
-<h2 class="anchored" data-anchor-id="vsmc-phenotypic-switch-modulators">VSMC Phenotypic Switch Modulators</h2>
+<section id="vsmc-phenotypic-plasticity" class="level2">
+<h2 class="anchored" data-anchor-id="vsmc-phenotypic-plasticity">VSMC Phenotypic Plasticity</h2>
 <p>Vascular smooth muscle cells (VSMCs) are highly plastic cells capable of transitioning between a quiescent <strong>contractile phenotype</strong> and a proliferative <strong>synthetic phenotype</strong> — a switch central to the pathogenesis of atherosclerosis and in-stent restenosis.</p>
-<p>My primary doctoral project defines the transcriptional basis of this switch through a multi-stage computational and experimental framework:</p>
-<ol type="1">
-<li><p><strong>Discovery</strong> — Using a donor-aware limma model on GSE193817 (284 samples, 148 donors, 136 paired), I identified a <strong>1,103-gene switching program</strong> (884 UP, 219 DN; FDR &lt; 0.05) capturing a proliferation-versus-cholesterol-metabolism transcriptional axis.</p></li>
-<li><p><strong>Transferability validation</strong> — The program demonstrates context-selective transferability across multiple independent perturbation datasets (growth-factor/cytokine contexts: 5/5 concordant; metabolic/stress contexts: 0/4), validated in GSE69637 and GSE253003.</p></li>
-<li><p><strong>Human plaque anchoring</strong> — The program is anchored to human atherosclerotic plaque states using single-cell data (GSE155512), with strong canonical SMC enrichment confirmed.</p></li>
-<li><p><strong>Experimental validation</strong> — A PDGF-BB induction model in primary human aortic SMCs (HAoSMC) uses resveratrol as a pharmacological counter-stimulus to test whether the computationally defined program is functionally and pharmacologically responsive (<em>partial resveratrol rescue</em> endpoint).</p></li>
-</ol>
-<p><strong>Target journal</strong>: <em>Arteriosclerosis, Thrombosis, and Vascular Biology</em> (ATVB)</p>
-<p><strong>Key tools</strong>: R (limma, WGCNA, clusterProfiler, GSVA), Western Blot, Immunofluorescence, RT-qPCR</p>
+<p>My primary doctoral project investigates the transcriptional basis of this switch through an integrated computational–experimental framework:</p>
+<ul>
+<li><strong>Discovery</strong> — Donor-aware modelling of public human aortic SMC transcriptomic data to delineate a phenotypic switching program.</li>
+<li><strong>Transferability</strong> — Evaluation of the program across independent perturbation contexts (growth-factor, cytokine, and metabolic/stress stimuli).</li>
+<li><strong>Human plaque anchoring</strong> — Cross-referencing with published human atherosclerotic plaque single-cell datasets.</li>
+<li><strong>Experimental validation</strong> — Perturbation models in primary human aortic SMCs (HAoSMC), paired with pharmacological counter-stimuli to test the functional identity of the program.</li>
+</ul>
+<p><strong>Key tools</strong>: R (limma, WGCNA, clusterProfiler, GSVA), Western Blot, Immunofluorescence, RT-qPCR.</p>
 <hr>
 </section>
 <section id="abcb5-mscs-chronic-wound-healing" class="level2">
 <h2 class="anchored" data-anchor-id="abcb5-mscs-chronic-wound-healing">ABCB5⁺ MSCs &amp; Chronic Wound Healing</h2>
-<p>ABCB5⁺ MSCs are a rare population of skin-derived stromal cells defined by expression of the ATP-binding cassette transporter ABCB5, with potent immunomodulatory and tissue-regenerative properties.</p>
+<p>ABCB5⁺ MSCs are a rare population of skin-derived stromal cells defined by expression of the ATP-binding cassette transporter ABCB5, with immunomodulatory and tissue-regenerative properties.</p>
 <p>This line of research has two components:</p>
 <p><strong>Published review</strong> — A comprehensive review of the differentiation and regeneration potential of ABCB5⁺ MSCs and their clinical translation perspectives, published in <em>Journal of Clinical Medicine</em> (2025).</p>
-<p><strong>Original bioinformatics study</strong> — A systems-level, multi-modal analysis of the paracrine role of ABCB5⁺ MSCs in chronic wound repair, structured around an expression-derived paracrine candidate atlas integrated with:</p>
+<p><strong>Original bioinformatics study</strong> — A systems-level multi-modal analysis of the paracrine role of ABCB5⁺ MSCs in chronic wound repair, integrating:</p>
 <ul>
-<li>Chronic wound transcriptome profiling (WGCNA co-expression analysis)</li>
-<li>Convergent target prioritization (M1 atlas ∩ wound DEG modules → 10 hub genes)</li>
-<li>Single-cell RNA-seq contextualization + cell-cell communication analysis (CellChat)</li>
-<li>Immune infiltration profiling (ssGSEA)</li>
-<li>Mendelian randomization boundary testing</li>
-<li>Molecular docking for structural plausibility</li>
+<li>Expression-based paracrine candidate identification</li>
+<li>Chronic wound transcriptome profiling (co-expression network analysis)</li>
+<li>Single-cell RNA-seq contextualization and cell–cell communication analysis</li>
+<li>Immune micro-environment profiling</li>
+<li>Causal-inference and structural plausibility analyses</li>
 </ul>
-<p>The analysis converges on three tissue-local repair axes: <strong>ECM remodeling</strong> (DCN, FBLN1, FBLN2, MFAP4, SERPINF1), <strong>complement-mediated immunoregulation</strong> (C3, CFH, SERPING1), and <strong>CXCL12-driven chemotactic crosstalk</strong>. The manuscript is under final preparation for submission, with parallel wet-lab co-culture validation underway.</p>
+<p>Computational findings are complemented by experimental co-culture studies examining the paracrine effects of ABCB5⁺ MSCs on wound-relevant cell populations. Manuscript in preparation.</p>
 <hr>
 </section>
 <section id="endocytic-trafficking-in-hela-cells" class="level2">
 <h2 class="anchored" data-anchor-id="endocytic-trafficking-in-hela-cells">Endocytic Trafficking in HeLa Cells</h2>
 <p>Working within the <a href="https://www.bioquant.uni-heidelberg.de/groups/starkuviene">Starkuvienė Lab</a> at BioQuant, I investigate endocytic pathway regulation in HeLa Kyoto cells using:</p>
 <ul>
-<li><strong>Size-selective dextran-FITC uptake assays</strong> (10/40/70 kDa) — fluid-phase endocytosis quantification across molecular weight ranges</li>
-<li><strong>Pathway-specific pharmacological inhibition</strong> — Wortmannin (PI3K-dependent macropinocytosis) and Dynasore (dynamin-dependent endocytosis) to dissect pathway contributions</li>
-<li><strong>3D spheroid culture models</strong> — Nunclon Sphera ultra-low attachment platform for validating endocytic behaviour in structurally relevant 3D context</li>
+<li><strong>Size-selective dextran-FITC uptake assays</strong> — fluid-phase endocytosis quantification across molecular-weight ranges</li>
+<li><strong>Pathway-specific pharmacological inhibition</strong> — dissecting macropinocytic and dynamin-dependent endocytic contributions</li>
+<li><strong>3D spheroid culture models</strong> — ultra-low-attachment platforms for 3D-context validation</li>
 <li><strong>Wound healing migration assays</strong> — scratch assay with quantitative imaging analysis</li>
 </ul>
-<p>This work contributes to the lab’s broader programme on how spatial and temporal regulation of intracellular trafficking is achieved and how its dysregulation contributes to disease and aging.</p>
+<p>This work contributes to the lab’s broader programme on the spatial and temporal regulation of intracellular trafficking and its dysregulation in disease and aging.</p>
 <hr>
 </section>
 <section id="methods-overview" class="level2">
